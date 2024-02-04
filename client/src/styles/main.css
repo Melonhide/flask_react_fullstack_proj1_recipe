@@ -1,0 +1,16 @@
+.container{
+    margin-top: 50px;
+}
+.heading{
+    font-size: 3em;
+}
+.form{
+    margin:auto;
+    width: 80%;
+}
+.description-input{
+    height: 450px;
+}
+.recipe{
+    margin-top: 20px;
+}
