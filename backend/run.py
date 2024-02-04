@@ -5,3 +5,6 @@ from config import DevelopmentConfig, ProductionConfig
 #app.run(host='0.0.0.0')
 
 app = create_app(ProductionConfig)
+
+if __name__ == "__main__":
+    app.run()
